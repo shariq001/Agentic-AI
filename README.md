@@ -38,8 +38,8 @@ Stay tuned for **more advanced implementations every day** as I continue levelin
 
 ## Connect with Me
 I’m sharing my journey and insights on **LinkedIn**. Let’s connect and grow together:  
-- **LinkedIn:** [www.linkedin.com/in/muhammad---shariq]  
-- **Email:** [shariqfazal123@gmail.com]  
+- **LinkedIn:** [https://www.linkedin.com/in/muhammad---shariq]  
+- **Email:** [mailto:shariqfazal123@gmail.com]  
 
 If you’re learning Agentic AI or planning to start, **this is the place to begin and grow with me**.
 
