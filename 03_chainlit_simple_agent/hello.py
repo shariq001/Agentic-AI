@@ -1,8 +1,8 @@
 import chainlit as cl
 import os
-
 from agents import Agent, RunConfig, Runner, AsyncOpenAI, OpenAIChatCompletionsModel
 from dotenv import load_dotenv, find_dotenv
+# Imports
 
 load_dotenv(find_dotenv())
 
