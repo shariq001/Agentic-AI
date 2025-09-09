@@ -1,8 +1,0 @@
-README.md
-main.py
-pyproject.toml
-00_uv_simple_app.egg-info/PKG-INFO
-00_uv_simple_app.egg-info/SOURCES.txt
-00_uv_simple_app.egg-info/dependency_links.txt
-00_uv_simple_app.egg-info/entry_points.txt
-00_uv_simple_app.egg-info/top_level.txt
